@@ -12,7 +12,7 @@ import javax.ws.rs.core.Response;     // Class used to build a custom HTTP respo
 // The resource will be accessible at the base URL followed by /hello
 @Path("/hello")
 public class HelloRessources {
-
+   //test
     // This method handles GET requests sent to /hello/hi
     @GET
     @Path("/hi")
